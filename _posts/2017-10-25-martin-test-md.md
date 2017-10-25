@@ -5,9 +5,11 @@ image: /img/hello_world.jpeg
 tags: [random, exciting-stuff]
 ---
 
-## Here is a secondary heading
+# A primary heading
 
-Here's a table:
+## A secondary heading
+
+### A table:
 
 | English | Spanish | German |
 | :------ |:--- | :--- |
