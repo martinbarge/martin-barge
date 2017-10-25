@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why you would want to learn with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Martin Barge. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I enjoy teaching.
+- I'm always make an effort to present myself well.
 
 What else do you need?
 
 ### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+To be honest, I'd rather write poems for a living than work with technology, but that's not the way the biscuit crumbles - I've avoided the American word Cookie, because like a lot of people these days, I fear we are losing the old ways.
