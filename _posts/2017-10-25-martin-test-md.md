@@ -5,7 +5,7 @@ image: /img/hello_world.jpeg
 tags: [random, exciting-stuff]
 ---
 
-### Is this a primary heading?
+# Is this a primary heading?
 Does this work then?
 
 ## Here is a secondary heading
