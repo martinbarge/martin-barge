@@ -19,8 +19,6 @@ title: Martin's Website
 # Short description of your site
 description: A virtual proof that name is awesome!
 
-bigimg: "https://deanattali.com/img/big-imgs/vietnam-climb.jpeg"
-
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
@@ -38,9 +36,13 @@ navbar-links:
 # Remove this parameter if you don't want an image in the navbar
 avatar: "/img/pop-canvas-2.png"
 
+
+
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: /path/to/image
+title-img: "https://deanattali.com/img/big-imgs/vietnam-climb.jpeg"
+
+bigimg: "https://deanattali.com/img/big-imgs/vietnam-climb.jpeg"
 
 # --- Background colour/image options --- #
 
