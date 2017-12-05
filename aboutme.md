@@ -2,7 +2,6 @@
 layout: page
 title: About me
 subtitle: Why you would want to learn with me
-bigimg: "img/bgimage.png"
 ---
 
 My name is Martin Barge. I have the following qualities:
