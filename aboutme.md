@@ -2,7 +2,7 @@
 layout: page
 title: About me
 subtitle: Why you would want to learn with me
-bigimg: "https://deanattali.com/img/big-imgs/vietnam-climb.jpeg"
+bigimg: "/img/bgimage.png"
 ---
 
 My name is Martin Barge. I have the following qualities:
