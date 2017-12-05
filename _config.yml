@@ -40,9 +40,7 @@ avatar: "/img/pop-canvas-2.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: "https://deanattali.com/img/big-imgs/vietnam-climb.jpeg"
-
-bigimg: "https://deanattali.com/img/big-imgs/vietnam-climb.jpeg"
+# title-img: "https://deanattali.com/img/big-imgs/vietnam-climb.jpeg"
 
 # --- Background colour/image options --- #
 
