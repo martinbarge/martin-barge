@@ -14,6 +14,14 @@ What else do you need?
 
 ### my history
 
-To be honest, I'd rather write poems for a living than work with technology, but that's not the way the biscuit crumbles - I've avoided the American word Cookie, because 
+To be honest, I'd rather 
+write poems for a 
+living than work 
+with technology, 
+but that's not the way 
+
+the biscuit crumbles.
+I avoided the American word 
+Cookie, because 
 like a lot of people these days, 
 I fear we are losing the old ways.
