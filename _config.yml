@@ -16,7 +16,7 @@ baseurl: ""
 # Name of website
 title: Martin's Website
 
-bigimg: "/img/bgimage.png" "/img/path.jpg"
+bigimg: "/img/path.jpg"
 
 # Short description of your site
 description: My semi-professional website
