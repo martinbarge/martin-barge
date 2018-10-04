@@ -14,4 +14,4 @@ What else do you need?
 
 ### My Interests
 
-To be honest, I'd rather write for a living than work with technology, but that's not the way the cookie crumbles. I prefer the word biscuit to cookie. The biscuit is British. The cookie's American. Both are imperialists. We the old; they the new. Like a lot of people these days, I fear we're losing the old ways.
+To be honest, I'd rather write for a living than work with technology, but that's not the way the cookie crumbles. I prefer the word biscuit to cookie. The biscuit is British. The cookie American. Both imperialists. We the old; they the new. Like many people these days, I fear we're losing the old ways.
