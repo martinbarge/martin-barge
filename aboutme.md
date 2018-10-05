@@ -10,8 +10,8 @@ My name is Martin. I have the following qualities:
 - I enjoy teaching.
 - I always make an effort to present myself well.
 
-What else do you need?
+What else does one need?
 
 ### My Interests
 
-To be honest, I'd rather write for a living than work with technology, but that's not the way the cookie crumbles. I prefer the word biscuit to cookie. The biscuit is British. The cookie American. Both imperialists. We the old; they the new. Like many people these days, I fear we're losing the old ways.
+Sometimes I think it might be more fun to write stories for a living, but this is not the way the cookie crumbles. I prefer the word 'biscuit' to 'cookie'. The biscuit is British. The cookie American. Both are imperialists. We the old. They the new. Like many people these days, I sometimes fear we are losing the old ways. Or do I? And are we?
