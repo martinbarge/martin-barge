@@ -2,9 +2,7 @@
 layout: page
 title: About me
 subtitle: Why you would want to learn with me
-bigimg: /img/path.jpg 
 bigimg: /img/slide-01.jpg 
-bigimg: /img/slide-02.jpg
 ---
 
 My name is Martin. I have the following qualities:
