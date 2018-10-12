@@ -17,9 +17,9 @@ baseurl: ""
 title: Martin's Website
 
 bigimg: 
-  image1: /img/path.jpg
-  image2: /img/slide-01.jpg
-  image3: /img/slide-02.jpg
+  /img/path.jpg
+  /img/slide-01.jpg
+  /img/slide-02.jpg
   
  
 
