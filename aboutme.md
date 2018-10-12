@@ -42,18 +42,11 @@ I joined Queen Mary in 2007, as Technical Director of the Multimedia Language Re
 - RSA Certificate, Teaching English as a Foreign Language. 1992.
 - B.A.(Hons), English Literature. University of Exeter. 1988.
 
-<hr> 
+### Skills
 
-### Computing and IT Skills
-
-- HTML5
-- CSS2
-- JavaScript
-- PHP & MySQL
-- LiveCode
-- Linux (Ubuntu, Fedora, Elementary)
-- Windows (XP, 7, 8, 10)
-- Mac OS X
+- Teaching
+- HTML, CSS, JavaScript, PHP, MySQL, LiveCode
+- General computing: Linux (Ubuntu, Fedora, Elementary), Windows (XP, 7, 8, 10), Mac OS X
 
 <hr>
 
