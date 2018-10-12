@@ -11,13 +11,13 @@ bigimg:
 # About me
 ## Professional Background
 
-<p>After training as a teacher of English as a Foreign Language in 1992, I taught English in Turkey, Spain and London, during which time I developed an interest in computer-assisted language learning (CALL). It was this interest that led me to take my Master's in Educational Technology at the University of Manchester School of Education.</p>
+After training as a teacher of English as a Foreign Language in 1992, I taught English in Turkey, Spain and London, during which time I developed an interest in computer-assisted language learning (CALL). It was this interest that led me to take my Master's in Educational Technology at the University of Manchester School of Education.
 
-<p>I joined Queen Mary in 2007, as Technical Director of the Multimedia Language Resource Centre, a facility within the Language Centre that provides computer-assisted language learning resources for the School of Languages, Linguistics and Film.</p>
+I joined Queen Mary in 2007, as Technical Director of the Multimedia Language Resource Centre, a facility within the Language Centre that provides computer-assisted language learning resources for the School of Languages, Linguistics and Film.
 
 # Roles and Responsibilities
 
-<p>My roles and responsibilities include directing and developing the use of technologies for language learning, ensuring that the computer facilities and applications are fully functional, and providing training and support for language teachers and learners.</p>
+My roles and responsibilities include directing and developing the use of technologies for language learning, ensuring that the computer facilities and applications are fully functional, and providing training and support for language teachers and learners.
 
 ## Current Teaching
 ### Undergraduate
@@ -31,3 +31,14 @@ bigimg:
    - EAL7208: Multimedia Materials' Development.
    - EAL7209: Teaching English in Professional and Academic Settings.
 
+# Professional Interests
+
+I'm interested in all aspects of educational technology, including:
+
+    Multimedia computer assisted language learning;
+    Computer mediated communication;
+    Distance education;
+    Web-based learning;
+    Interactions between technology and pedagogy.
+
+One of my central interests is digital educational materials' authoring, using scripting languages and authoring platforms.
