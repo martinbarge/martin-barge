@@ -3,8 +3,8 @@ layout: page
 title: About me
 subtitle: Why you would want to learn with me
 bigimg: 
-  /img/path.jpg
-  /img/path.jpg
+  1. /img/path.jpg
+  2. /img/path.jpg
 
 ---
 
