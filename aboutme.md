@@ -15,7 +15,7 @@ After training as a teacher of English as a Foreign Language in 1992, I taught E
 
 I joined Queen Mary in 2007, as Technical Director of the Multimedia Language Resource Centre, a facility within the Language Centre that provides computer-assisted language learning resources for the School of Languages, Linguistics and Film.
 
-# Roles and Responsibilities
+## Roles and Responsibilities
 
 My roles and responsibilities include directing and developing the use of technologies for language learning, ensuring that the computer facilities and applications are fully functional, and providing training and support for language teachers and learners.
 
@@ -31,7 +31,34 @@ My roles and responsibilities include directing and developing the use of techno
    - EAL7208: Multimedia Materials' Development.
    - EAL7209: Teaching English in Professional and Academic Settings.
 
-# Professional Interests
+## Qualifications and Skills
+
+### Qualifications
+
+- Senior Fellow of the Higher Education Academy
+- M.Ed., Educational Technology and English Language Teaching. University of Manchester. 2006.
+- LCCI Certificate, Teaching English for Business. 2002.
+- RSA Diploma, Teaching English as a Foreign Language. 1997.
+- RSA Certificate, Teaching English as a Foreign Language. 1992.
+- B.A.(Hons), English Literature. University of Exeter. 1988.
+
+## Computing and IT Skills
+### Operating systems:
+
+- Linux (Ubuntu, Fedora, Elementary)
+- Windows (XP, 7, 8, 10).
+- Mac OS X.
+
+### Scripting skills:
+
+- HTML5
+- CSS2
+- JavaScript
+- PHP & MySQL
+- LiveCode
+
+
+## Professional Interests
 
 I'm interested in all aspects of educational technology, including:
 
