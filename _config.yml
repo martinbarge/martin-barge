@@ -16,10 +16,10 @@ baseurl: ""
 # Name of website
 title: Martin's Website
 
-bigimg: 
-  - /img/path.jpg
-  - /img/slide-01.jpg
-  - /img/slide-02.jpg 
+#bigimg: 
+ # - /img/path.jpg
+ # - /img/slide-01.jpg
+ # - /img/slide-02.jpg 
 
 # Short description of your site
 description: My semi-professional website
