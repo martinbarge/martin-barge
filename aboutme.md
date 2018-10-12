@@ -35,10 +35,10 @@ My roles and responsibilities include directing and developing the use of techno
 
 I'm interested in all aspects of educational technology, including:
 
-    Multimedia computer assisted language learning;
-    Computer mediated communication;
-    Distance education;
-    Web-based learning;
-    Interactions between technology and pedagogy.
+   - Multimedia computer assisted language learning;
+   - Computer mediated communication;
+   - Distance education;
+   - Web-based learning;
+   - Interactions between technology and pedagogy.
 
 One of my central interests is digital educational materials' authoring, using scripting languages and authoring platforms.
