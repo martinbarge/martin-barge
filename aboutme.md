@@ -22,12 +22,12 @@ bigimg:
 ## Current Teaching
 ### Undergraduate
 
-   SML209: Computers and Languages.
-   COM6002: Constellations Online Anthology Group Project.
-   EAL6011: Languages in the Classroom.
+   - SML209: Computers and Languages.
+   - COM6002: Constellations Online Anthology Group Project.
+   - EAL6011: Languages in the Classroom.
 
 ### Postgraduate
 
-   EAL7208: Multimedia Materials' Development.
-   EAL7209: Teaching English in Professional and Academic Settings.
+   - EAL7208: Multimedia Materials' Development.
+   - EAL7209: Teaching English in Professional and Academic Settings.
 
