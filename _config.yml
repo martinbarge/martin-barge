@@ -31,6 +31,7 @@ navbar-links:
   About Me: "aboutme"
   Conferences: "conferences"
   Publications: "publications"
+  Skills & Quals: "skills-qualifications"
   Author's home: "http://martinbarge.github.io"
   Acknowledgements: 
     - Dean Attali's Website: "http://deanattali.com"
