@@ -9,15 +9,8 @@ bigimg:
 
 ---
 
-My name is Martin. I have the following qualities:
+<h1>Professional Background</h1>
 
-- I enjoy teaching.
-- I try to make an effort to present myself well.
-- I am not as young as I used to be. I love statements of the obvious.
+<p>After training as a teacher of English as a Foreign Language in 1992, I taught English in Turkey, Spain and London, during which time I developed an interest in computer-assisted language learning (CALL). It was this interest that led me to take my Master's in Educational Technology at the University of Manchester School of Education.</p>
 
-What else does one need?
-
-### My Interests
-
-I am interested in the way information technology changes society, the ways we think and the ways we perceive the world.  
-Sometimes I think it might be more fun to write stories for a living, but this is not the way the cookie crumbles. I prefer the word 'biscuit' to 'cookie'. The biscuit is British. The cookie American. Both are imperialists. We the old. They the new. Like many people these days, I sometimes fear we are losing the old ways. Or do I? And are we?
+<p>I joined Queen Mary in 2007, as Technical Director of the Multimedia Language Resource Centre, a facility within the Language Centre that provides computer-assisted language learning resources for the School of Languages, Linguistics and Film.</p>
