@@ -44,20 +44,16 @@ I joined Queen Mary in 2007, as Technical Director of the Multimedia Language Re
 
 <hr> 
 
-## Computing and IT Skills
-### Operating systems:
-
-- Linux (Ubuntu, Fedora, Elementary)
-- Windows (XP, 7, 8, 10).
-- Mac OS X.
-
-### Scripting skills:
+### Computing and IT Skills
 
 - HTML5
 - CSS2
 - JavaScript
 - PHP & MySQL
 - LiveCode
+- Linux (Ubuntu, Fedora, Elementary)
+- Windows (XP, 7, 8, 10)
+- Mac OS X
 
 <hr>
 
