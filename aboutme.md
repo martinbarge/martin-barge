@@ -2,7 +2,9 @@
 layout: page
 title: About me
 subtitle: Why you would want to learn with me
-bigimg: image1
+bigimg: 
+  /img/path.jpg
+  /img/path.jpg
 
 ---
 
