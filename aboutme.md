@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you would want to learn with me
+subtitle: What you may need to know
 bigimg: 
   - /img/path.jpg
   - /img/slide-01.jpg
@@ -13,11 +13,9 @@ bigimg:
 
 After training as a teacher of English as a Foreign Language in 1992, I taught English in Turkey, Spain and London, during which time I developed an interest in computer-assisted language learning (CALL). It was this interest that led me to take my Master's in Educational Technology at the University of Manchester School of Education.
 
-I joined Queen Mary in 2007, as Technical Director of the Multimedia Language Resource Centre, a facility within the Language Centre that provides computer-assisted language learning resources for the School of Languages, Linguistics and Film.
+I joined Queen Mary in 2007, as Technical Director of the Multimedia Language Resource Centre, a facility within the Language Centre that provides computer-assisted language learning resources for the School of Languages, Linguistics and Film. My roles and responsibilities include directing and developing the use of technologies for language learning, ensuring that the computer facilities and applications are fully functional, and providing training and support for language teachers and learners.
 
-## Roles and Responsibilities
-
-My roles and responsibilities include directing and developing the use of technologies for language learning, ensuring that the computer facilities and applications are fully functional, and providing training and support for language teachers and learners.
+<hr>
 
 ## Current Teaching
 ### Undergraduate
@@ -31,6 +29,8 @@ My roles and responsibilities include directing and developing the use of techno
    - EAL7208: Multimedia Materials' Development.
    - EAL7209: Teaching English in Professional and Academic Settings.
 
+<hr>
+
 ## Qualifications and Skills
 
 ### Qualifications
@@ -41,6 +41,8 @@ My roles and responsibilities include directing and developing the use of techno
 - RSA Diploma, Teaching English as a Foreign Language. 1997.
 - RSA Certificate, Teaching English as a Foreign Language. 1992.
 - B.A.(Hons), English Literature. University of Exeter. 1988.
+
+<hr> 
 
 ## Computing and IT Skills
 ### Operating systems:
@@ -57,15 +59,17 @@ My roles and responsibilities include directing and developing the use of techno
 - PHP & MySQL
 - LiveCode
 
+<hr>
 
 ## Professional Interests
 
 I'm interested in all aspects of educational technology, including:
 
-   - Multimedia computer assisted language learning;
-   - Computer mediated communication;
-   - Distance education;
-   - Web-based learning;
-   - Interactions between technology and pedagogy.
+   - Multimedia computer assisted language learning
+   - Computer mediated communication
+   - Distance education
+   - Web-based learning
+   - Interactions between technology and pedagogy
+   - Philosophy of technology
 
 One of my central interests is digital educational materials' authoring, using scripting languages and authoring platforms.
