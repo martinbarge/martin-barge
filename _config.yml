@@ -29,9 +29,9 @@ description: My semi-professional website
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Conferences: "conferences"
-  Publications: "publications"
-  Author's home: "http://martinbarge.github.io"
+  Outputs:
+    - Conferences: "conferences"
+    - Publications: "publications"
   Acknowledgements: 
     - Dean Attali's Website: "http://deanattali.com"
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
