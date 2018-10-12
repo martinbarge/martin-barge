@@ -5,6 +5,7 @@ subtitle: Why you would want to learn with me
 bigimg: 
   - /img/path.jpg
   - /img/slide-01.jpg
+  - /img/slide-02.jpg
 
 ---
 
