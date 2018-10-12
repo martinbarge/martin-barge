@@ -29,13 +29,12 @@ description: My semi-professional website
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+  Conferences: "conferences"
+  Publications: "publications"
   Author's home: "http://martinbarge.github.io"
-  Acknowledgement: 
+  Acknowledgements: 
     - Dean Attali's Website: "http://deanattali.com"
+    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
