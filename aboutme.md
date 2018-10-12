@@ -44,8 +44,8 @@ I joined Queen Mary in 2007, as Technical Director of the Multimedia Language Re
 
 ### Skills
 
-- Teaching
-- HTML, CSS, JavaScript, PHP, MySQL, LiveCode
+- Teaching: English language, multimedia, educational technology
+- Scripting: HTML, CSS, JavaScript, PHP, MySQL, LiveCode
 - General computing: Linux (Ubuntu, Fedora, Elementary), Windows (XP, 7, 8, 10), Mac OS X
 
 <hr>
