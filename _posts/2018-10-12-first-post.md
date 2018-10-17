@@ -2,7 +2,7 @@
 layout: post
 title: My first post
 image: /img/hello_world.jpeg
-tags: [random, exciting-stuff]
+tags: [new, exciting]
 ---
 
 This is my first post to my new website. 
