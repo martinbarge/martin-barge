@@ -1,12 +1,6 @@
 ---
 layout: page
 title: Conference Presentations
-subtitle: Some of the talks I've given
-bigimg: 
-  - /img/path.jpg
-  - /img/slide-01.jpg
-  - /img/slide-02.jpg
-
 ---
 
 # Conferences
