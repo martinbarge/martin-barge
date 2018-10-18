@@ -1,11 +1,6 @@
 ---
 layout: page
 title: Publications
-subtitle: Published books, articles and contributions 
-bigimg: 
-  - /img/path.jpg
-  - /img/slide-01.jpg
-  - /img/slide-02.jpg
 
 ---
 # Publications
