@@ -5,7 +5,7 @@ image: /img/hello_world.jpeg
 tags: [new, exciting]
 ---
 
-This is my first post to my new website, which is build using the Beautiful Jekyll templates build by Dean Attali. 
+This is my first post to my new website, which is built using the Beautiful Jekyll templates built by Dean Attali. 
 
 To quote: 
 
