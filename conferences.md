@@ -1,6 +1,19 @@
+---
+layout: page
+title: Conference Presentations
+subtitle: Some of the talks I've given
+bigimg: 
+  - /img/path.jpg
+  - /img/slide-01.jpg
+  - /img/slide-02.jpg
+
+---
+
 # Conferences
 
 ## Conference Presentations
+
+- 2018: **Does technology serve to liberate EAP practitioners, or enslave us?** <br>Martin Barge. Language Centre 5th CPD Conference 2018, Queen Mary University of London.
 
 - 2015: **Setting a Precedent with Open Resources Development in English for Specific Academic Purposes.** <br>Alannah Fitzgerald, Martin Barge, Saima Sherazi & William Tweddle. BALEAP Biennial Conference, University of Leicester.
     
