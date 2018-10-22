@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Learning Polish
-tags: [diary, college, polish]
+title: Learning Polish with Duolingo
+tags: [diary, college, polish, duolingo]
 ---
 
 I'm trying to learn a little bit of Polish, when I can find time. This began when a bright Polish student from Wrocław, named Laura, came to work for us during the summer and gave me some short impromptu lessons. So I have a collection of random phrases and notes, along with some linguistic explanations, and am using [Duolingo](https://www.duolingo.com/). Duolingo is a great application because its algorithms recycle the target language according to one's linguistic performance. So it's a behavioural approach that uses repetitive drilling to reinforce memorisation of language items, particularly vocabulary at the early stages. 
