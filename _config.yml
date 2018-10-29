@@ -16,6 +16,9 @@ baseurl: ""
 # Name of website
 title: Martin Barge
 
+# Short description of your site
+description: Webspace for Martin Barge, Queen Mary University of London
+
 #SEO
 plugins:
   - jekyll-seo-tag
@@ -25,8 +28,6 @@ plugins:
  # - /img/slide-01.jpg
  # - /img/slide-02.jpg 
 
-# Short description of your site
-description: My Professional Website
 
 # --- Navigation bar options --- #
 
