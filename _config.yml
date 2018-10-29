@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Martin Barge's Website
+title: Martin Barge QMUL
 
 # Short description of your site
-description: Webspace for Martin Barge, Queen Mary University of London
+description: Webspace for Martin Barge, Queen Mary, University of London
 
 #SEO
 plugins:
