@@ -16,6 +16,10 @@ baseurl: ""
 # Name of website
 title: Martin Barge
 
+#SEO
+plugins:
+  - jekyll-seo-tag
+
 #bigimg: 
  # - /img/path.jpg
  # - /img/slide-01.jpg
