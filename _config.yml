@@ -19,10 +19,6 @@ title: Martin Barge QMUL
 # Short description of your site
 description: Webspace for Martin Barge, Queen Mary, University of London
 
-#SEO
-plugins:
-  - jekyll-seo-tag
-
 #bigimg: 
  # - /img/path.jpg
  # - /img/slide-01.jpg
@@ -241,6 +237,9 @@ prose:
 
 plugins:
   - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
