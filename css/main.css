@@ -3,13 +3,13 @@ layout: null
 ---
 
 @import url("pygment_highlights.css");
-@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
 
 /* --- General --- */
 
 body {
-  /* -- font-family: 'Lora', 'Times New Roman', serif; --*/
-  font-family: 'Roboto', sans-serif; 
+  font-family: 'Lora', 'Times New Roman', serif;
+  /* -- font-family: 'Roboto', sans-serif; --*/
   font-size: 18px;
   color: #404040;
   position: relative;
@@ -31,8 +31,8 @@ p a {
   color: #008AFF;
 }
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'Roboto', sans-serif; 
-  /* font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; */
+  /* font-family: 'Roboto', sans-serif; */
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
 }
 a {
@@ -67,8 +67,8 @@ hr.small {
 }
 
 .main-explain-area {
-  font-family: 'Roboto', sans-serif; 
-  /* font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
+  /* font-family: 'Roboto', sans-serif; */
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   padding: 15px inherit;
 }
 
@@ -115,8 +115,8 @@ img {
   /* background: #F5F5F5; */
   /* background: background: #ecccf1; */
   border-bottom: 1px solid #EAEAEA;
-  font-family: 'Roboto', sans-serif; 
-  /*font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
+  /* font-family: 'Roboto', sans-serif; */
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   {% if site.navbar-col %}
   background: {{ site.navbar-col }};
   {% endif %}
@@ -370,8 +370,8 @@ footer .theme-by {
   margin: 0 0 10px;
 }
 .post-preview .post-entry {
-  font-family: 'Roboto', sans-serif; 
-  /* font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; */
+  /* font-family: 'Roboto', sans-serif; */
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 .post-entry-container {
   display: inline-block;
@@ -503,8 +503,8 @@ footer .theme-by {
   font-size: 27px;
   line-height: 1.1;
   display: block;
-  font-family: 'Roboto', sans-serif; 
-  /* font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; */
+  /* font-family: 'Roboto', sans-serif; */
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 300;
   margin: 10px 0 0;
 }
