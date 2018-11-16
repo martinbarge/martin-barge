@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SML209
+title: Machine Translation
 tags: [diary, college, sml209, machine translation]
 ---
 This is an excellent video introduction to the basic principles and difficulties of machine translation.
