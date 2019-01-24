@@ -1,14 +1,14 @@
 ---
 layout: page
-title: About me
-subtitle: What you may need to know
+title: Martin Barge
+subtitle: Teacher and Educational Technologist
 bigimg: 
   - /img/path.jpg
   - /img/slide-01.jpg
   - /img/slide-02.jpg
 
 ---
-# About me
+# About me and my work
 ## Professional Background
 
 After training as a teacher of English as a Foreign Language in 1992, I taught English in Turkey, Spain and London, during which time I developed an interest in computer-assisted language learning (CALL). It was this interest that led me to take my Master's in Educational Technology at the University of Manchester School of Education.
