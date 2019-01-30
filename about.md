@@ -1,14 +1,13 @@
 ---
 layout: page
 title: About
-subtitle: me
+subtitle: me and my work
 bigimg: 
   - /img/path.jpg
   - /img/slide-01.jpg
   - /img/slide-02.jpg
 
 ---
-# About me and my work
 ## Professional Background
 
 Since 2007, I have worked in multimedia language education, at <a href="https://www.qmul.ac.uk">Queen Mary University of London</a>, providing support for computer-assisted language learning in the <a href="https://www.qmul.ac.uk/sllf">School of Languages, Linguistics and Film</a>. My roles and responsibilities include guiding and developing the use of technologies for language learning, ensuring that the computer facilities and applications are fully functional, and providing training and support for language teachers and learners.
