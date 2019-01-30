@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Martin Barge
-subtitle: Teacher and Educational Technologist
+title: About
+subtitle: me
 bigimg: 
   - /img/path.jpg
   - /img/slide-01.jpg
