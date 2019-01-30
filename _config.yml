@@ -29,12 +29,12 @@ description: Webspace for Martin Barge, Queen Mary, University of London
 
 # List of links in the navigation bar
 navbar-links:
-  About: "about"
-  Outputs:
+  ABOUT ME: "about"
+  OUTPUTS:
     - Conferences: "conferences"
     - Publications: "publications"
   QMUL: "https://www.qmul.ac.uk/sllf/language-centre/people/academic/profiles/barge.html"
-  Blog: "index.html"
+  BLOG: "index.html"
   Acknowledgements: 
     - Dean Attali's Website: "http://deanattali.com"
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
