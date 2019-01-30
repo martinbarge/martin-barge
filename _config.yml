@@ -29,7 +29,7 @@ description: Webspace for Martin Barge, Queen Mary, University of London
 
 # List of links in the navigation bar
 navbar-links:
-  Blog: "blog/index.html"
+  About: "about"
   Outputs:
     - Conferences: "conferences"
     - Publications: "publications"
@@ -147,7 +147,7 @@ highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
 future: true
-paginate_path: "/blog/page:num/"
+# paginate_path: "/blog/page:num/"
 
 kramdown:
   input: GFM
