@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Machine Translation
-tags: [diary, college, sml209, machine translation]
+tags: [machine translation]
 ---
 How effective and efficient is machine translation?
 
