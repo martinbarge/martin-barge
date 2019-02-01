@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Creative Programming
-tags: [creative programming, processing]
+tags: [creative programming, Processing]
 ---
 About three years ago, I took part of course in creative programming using Processing. Here is a sample of the works I made.
 
