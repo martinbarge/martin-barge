@@ -7,7 +7,7 @@ About three years ago, I took part of course in creative programming using Proce
 
 <img src="https://live.staticflickr.com/8543/28871423005_68d48cd41f_z.jpg" class="zoom-large">
 
-<video width="320" height="240" controls>
+<video width="530" height="530" controls>
   <source src="https://live.staticflickr.com/video/28798988520/9b3815b3d8/360p.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
