@@ -5,7 +5,7 @@ subtitle: Books, articles and contributions published
 
 ---
 
-- Fitzgerald, Alannah; Wu, Shaoqun; Barge, Martin. (2014). Investigating an open methodology for designing domain-specific language collections. In Sake Jager, Linda Bradley, Estelle J. Meima, Sylvie Thouësny (Eds), **CALL Design: Principles and Practice - Proceedings of the 2014 EUROCALL Conference**, Groningen, The Netherlands (pp. 88-95). Dublin Ireland: Research-publishing.net. doi: 10.14705/rpnet.2014.000200
+- Fitzgerald, Alannah; Wu, Shaoqun; Barge, Martin. (2014). Investigating an open methodology for designing domain-specific language collections. In Sake Jager, Linda Bradley, Estelle J. Meima, Sylvie Thouësny (Eds), **CALL Design: Principles and Practice - Proceedings of the 2014 EUROCALL Conference**, Groningen, The Netherlands (pp. 88-95). Dublin Ireland: Research-publishing.net. [Online](https://researchcommons.waikato.ac.nz/bitstream/handle/10289/9147/Proc%20EUROCALL%202014.pdf)
 
 - Martin Barge, William Tweddle and Paul Emmerson (2009). **The Business Advanced Teacher's Book**. Macmillan.
 
