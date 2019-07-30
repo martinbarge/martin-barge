@@ -9,6 +9,6 @@ subtitle: Books, articles and contributions published
 
 - Martin Barge, William Tweddle and Paul Emmerson (2009). **The Business Advanced Teacher's Book**. Macmillan.
 
-- Martin Barge (2009). Teaching Techniques for Multimedia Language Labs - Final Report. Centre for Excellence in Multimedia Language Learning. [Download PDF](http://webspace.qmul.ac.uk/mibarge/Queen_MaryCEMLL_Final_Report.pdf)
+- Martin Barge (2009). Teaching Techniques for Multimedia Language Labs - Final Report. Centre for Excellence in Multimedia Language Learning. [Download PDF](files/Queen_MaryCEMLL_Final_Report.pdf)
 
 - Barge, M. and Tweddle, W. (with Emery, H. and Roberts A.)(2008). **Aviation English CD-ROM**. Macmillan.
