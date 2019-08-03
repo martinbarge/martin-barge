@@ -16,7 +16,7 @@ A table of squares is drawn on the page; each square contains a button in disabl
 When a button is clicked, the script does the following: gets the id of the button; checks whether it is the first or second button enabled; compares its id with the other button id; if the ids form a synonymous match, it shades the buttons a new colour and preserves the visible state; else, pauses for 1.5 seconds and then hides the button label. 
 
 #### Areas for improvement:
-The table layout and page elements are not responsive, so this design feature could be added so that the activity scales to the device screen size automatically. 
+The table layout and page elements are not responsive; this design feature could be added to ensure the activity scales to the device screen size automatically. 
 
 The result can be seen here: [Pelmanism](http://qmlanguagecentre.on-rev.com/samples/pelmanism.html)
 
