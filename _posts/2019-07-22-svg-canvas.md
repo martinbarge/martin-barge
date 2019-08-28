@@ -79,27 +79,24 @@ The result looks like this:
 </svg> 
 
 <h3>More to do</h3>
+
 Javascript can be implemented with SVG to calculate the coordinates for each line, rather than inputting the pre-calculated values.
 
 Here is the code to do this for the above example:
 
+<div style="font-size:80%;">
+  
 ```
 <svg height="400" width="400">
   <circle cx="200" cy="200" r="200" stroke="black" stroke-width="0" fill="#6a29ea" />
-  
   <line id="line0" x1="200" y1="200" x2="0" y2="0" style="stroke:rgb(255,255,255);stroke-width:6" />
-  
   <line id="line1" x1="200" y1="200" x2="0" y2="0" style="stroke:rgb(255,255,255);stroke-width:6" />
-  
   <line id="line2" x1="200" y1="200" x2="0" y2="0" style="stroke:rgb(255,255,255);stroke-width:6" />
-  
-  
   Sorry, your browser does not support inline SVG.  
 </svg>
 
 <script>
 function drawCircle() {
-  //var angles = [1*(360 / 3), 2*(360 / 3), 3*(360 / 3)];
   var angles = [90, 210, 330];
   var i;
   for (i = 0; i < angles.length; i++){
@@ -108,14 +105,15 @@ function drawCircle() {
   var x = (x * 200) + 200;
   var y = Math.sin(radians);
   var y = (y * 200) + 200;
-  //document.getElementById("demo").innerHTML = x;
   document.getElementById("line"+i).setAttribute("x2", x );
   document.getElementById("line"+i).setAttribute("y2", y );
   }
 }
 drawCircle();
 </script>
+
 ```
+</div>
 <hr>
 
 <h2>HTML5 Canvas</h2>
