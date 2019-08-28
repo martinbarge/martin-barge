@@ -4,20 +4,18 @@ title: Using SVG and Canvas to divide a circle
 tags: [svg, canvas, graphics, coordinates]
 ---
 
-I wanted to create a graphic consisting of a circle divided precisely into three segments of equal size. And I wanted to learn some of the basic drawing commands native to SVG and HTML5 Canvas, to compare the procedure. 
+I wanted to create a graphic consisting of a circle divided precisely into three segments of equal size. I wanted to learn some of the basic drawing commands native to SVG (Scalable Vector Graphics) and HTML5 Canvas, to compare the procedure. 
 
 <h2>SVG</h2>
-Drawing graphics with SVG is quite straightforward.
+Drawing graphics with SVG is quite straightforward. Rather like the HTML5 canvas element, the SVG tag requires height and width properties with numerical values to set the drawing area.
 
-Rather like the HTML5 canvas element, the SVG tag requires height and width properties with numerical values to set the drawing area.
-
-In the example below, I set the SVG area to 400 x 400.
+In the examples that follow (see below), I set the SVG area to 400 x 400.
 
 The circle requires an (x,y) origin, or centre point, specified as cx and cy coordinates, with a numerical value for each. It also requires a radius (r) with a numerical value.
 
 As I want my circle to use the maximum size of the SVG area, I set the x,y origin of the circle to 200,200. And I set the radius to 200. 
 
-To make my circle easy to see, I set the fill colour, using a hexadecimal value: fill=&quot;#6a29ea&quot;
+To make my circle easy to see, I set the fill colour, using a hexadecimal value: ``` fill="#6a29ea" ```
 
 So far, the result is this:
 
@@ -26,13 +24,18 @@ So far, the result is this:
   Sorry, your browser does not support inline SVG.  
 </svg> 
 
-But then I want to divide my circle into three equal segments, using three lines to mark the divisions. 
+Now to divide my circle into three equal segments, using three lines to mark the divisions. 
 
 Drawing a line is easy enough: we specify the start point coordinates as x1,y1 and the end point coordinates as x2,y2 , and supply the values we need. 
 
-I know that each line has to begin at the centre of the circle, which is 200,200. So my three lines each begin with:&nbsp; <code> x1=&quot;200&quot; y1=&quot;200&quot; </code>
+I know that each line has to begin at the centre of the circle, which is 200,200. So my three lines each begin with:
 
-Next I need to determine the end point of each line as a pair of coordinates on the edge of the circle. To do this, I need to make some cosine and sine calculations. The forumlas I need for the end-point coordinates of a line: 
+```
+x1="200" y1="200" 
+
+```
+
+Next, I need to determine the end point of each line as a pair of coordinates on the edge of the circle. To do this, I need to make some cosine and sine calculations. The forumlas I need for the end-point coordinates of a line: 
 
 <blockquote>
   <p> x = ((cosine * degree of angle) * radius) + radius</p>
@@ -116,6 +119,9 @@ drawCircle();
 </script>
 
 ```
+As can be noted in the above code extract, I have set the initial x2,y2 coordinates for each line to 0. The Javascript function then computes the x,y values, using Math.cos() and Math.sin() methods, then assigns the values to the x2,y2 attributes of each line, using a loop control structure.
+
+To conclude, SVG works nicely with JavaScript. 
 <hr>
 
 <h2>HTML5 Canvas</h2>
