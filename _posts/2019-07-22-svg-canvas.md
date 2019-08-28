@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Basic SVG to divide a circle
-tags: [svg, graphics, coordinates]
+title: Using SVG and Canvas to divide a circle
+tags: [svg, canvas, graphics, coordinates]
 ---
 
-I wanted to create a graphic consisting of a circle divided precisely into three segments of equal size. I chose SVG to do this, and I wanted to learn some of the basic drawing commands native to SVG. 
+I wanted to create a graphic consisting of a circle divided precisely into three segments of equal size. And I wanted to learn some of the basic drawing commands native to SVG and HTML5 Canvas, to compare the procedure. 
 
+<h2>SVG</h2>
 Drawing graphics with SVG is quite straightforward.
 
 Rather like the HTML5 canvas element, the SVG tag requires height and width properties with numerical values to set the drawing area.
@@ -78,6 +79,52 @@ The result looks like this:
   Sorry, your browser does not support inline SVG.  
 </svg> 
 
-<strong>Final words</strong>
+<h2>HTML5 Canvas</h2>
 
-Sine and Cosine calculations can be performed using JavaScript, and the values fed in as variables to SVG. 
+Here is a similar result using the HTML5 canvas object.
+
+<canvas id="myCanvas" width="400" height="400"
+style="border:1px solid #d3d3d3;">
+Your browser does not support the canvas element.
+</canvas>
+
+<script>
+var canvas = document.getElementById("myCanvas");
+var ctx = canvas.getContext("2d");
+ctx.beginPath();
+ctx.arc(200,200,200,0,2*Math.PI);
+ctx.stroke();
+ctx.fillStyle = "blue";
+ctx.fill();
+</script> 
+
+<p id="demo"></p>
+
+<script>
+function drawCircle() {
+var angles = [1*(360 / 3), 2*(360 / 3), 3*(360 / 3)];
+
+for (i=0; i < angles.length; i++){
+  
+  var radians = angles[i] / 180 * Math.PI;
+  
+  var x = Math.cos(radians);
+  //var x = x.toFixed(2);
+  var x = (x * 200) + 200;
+  
+  var y = Math.sin(radians);
+ //var y = y.toFixed(2); 
+  var y = (y * 200) + 200;
+  
+	var canvas = document.getElementById("myCanvas");
+	var ctx = canvas.getContext("2d");
+	ctx.moveTo(200, 200);
+	ctx.lineTo(x, y);
+  ctx.lineWidth = 5;
+    ctx.strokeStyle = 'white';
+    ctx.stroke(); 
+}
+}
+drawCircle();
+
+</script>
