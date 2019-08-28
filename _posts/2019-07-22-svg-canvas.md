@@ -165,3 +165,47 @@ for (i=0; i < angles.length; i++){
 drawCircle();
 
 </script>
+
+The code for the HTML5 Canvas image above is:
+
+```
+
+<canvas id="myCanvas" width="400" height="400"
+style="border:1px solid #d3d3d3;">
+Your browser does not support the canvas element.
+</canvas>
+
+<script>
+var canvas = document.getElementById("myCanvas");
+var ctx = canvas.getContext("2d");
+ctx.beginPath();
+ctx.arc(200,200,200,0,2*Math.PI);
+ctx.stroke();
+ctx.fillStyle = "blue";
+ctx.fill();
+
+function drawCircle() {
+var angles = [1*(360 / 3), 2*(360 / 3), 3*(360 / 3)];
+
+for (i=0; i < angles.length; i++){
+  var radians = angles[i] / 180 * Math.PI;
+  
+  var x = Math.cos(radians);
+  var x = (x * 200) + 200;
+  var y = Math.sin(radians);
+  var y = (y * 200) + 200;
+  
+  var canvas = document.getElementById("myCanvas");
+  var ctx = canvas.getContext("2d");
+  ctx.moveTo(200, 200);
+  ctx.lineTo(x, y);
+  ctx.lineWidth = 5;
+  ctx.strokeStyle = 'white';
+  ctx.stroke(); 
+}
+}
+drawCircle();
+
+</script>
+
+```
