@@ -101,15 +101,13 @@ function drawCircle() {
 var angles = [1*(360 / 3), 2*(360 / 3), 3*(360 / 3)];
 
 for (i=0; i < angles.length; i++){
-  
   var radians = angles[i] / 180 * Math.PI;
   
   var x = Math.cos(radians);
   var x = (x * 200) + 200;
-  
   var y = Math.sin(radians);
- 
   var y = (y * 200) + 200;
+  
   var canvas = document.getElementById("myCanvas");
   var ctx = canvas.getContext("2d");
   ctx.moveTo(200, 200);
