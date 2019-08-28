@@ -83,8 +83,6 @@ The result looks like this:
 Javascript can be implemented with SVG to calculate the coordinates for each line, rather than inputting the pre-calculated values.
 
 Here is the code to do this for the above example:
-
-<div style="font-size:80%;">
   
 ```
 <svg height="400" width="400">
@@ -113,7 +111,6 @@ drawCircle();
 </script>
 
 ```
-</div>
 <hr>
 
 <h2>HTML5 Canvas</h2>
