@@ -55,7 +55,12 @@ So I know my first line x2,y2 coordinates are 200,400.
 
 Thus, my first line entry is:  
 
-<code> line x1=&quot;200&quot; y1=&quot;200&quot; x2=&quot;200&quot; y2=&quot;400&quot; style=&quot;stroke:rgb(255,255,255);stroke-width:6&quot; </code>
+```
+
+<line x1="200" y1="200" x2="200" y2="400" style="stroke:rgb(255,255,255);stroke-width:6" /> 
+
+```
+
 
 <svg height="400" width="400">
   <circle cx="200" cy="200" r="200" stroke="black" stroke-width="0" fill="#6a29ea" />
