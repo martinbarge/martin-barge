@@ -22,9 +22,17 @@ var examples = [
 'Example: <i>My sister phoned me out of the blue last week. She hadn\'t phoned for ages.</i>'
 ];
 
+var quoteNo;
 function loadQuote() {
     var idiomNo = Math.floor(Math.random() * (idioms.length));
+    if(idiomNo != quoteNo) {
     //alert(quotes[quoteNo]);
-    document.getElementById("quote").innerHTML = "<dt>" + idioms[idiomNo] + "</dt>" + "<dd>" + examples[idiomNo] + "</dd>"
-}
+    	document.getElementById("quote").innerHTML = "<dt>" + idioms[idiomNo] + "</dt>" + "<dd>" + examples[idiomNo] + "</dd>"
+   		quoteNo = idiomNo;
+    	return quoteNo;
+    	}
+    	else {
+    	loadQuote();
+    	}
+	}
 loadQuote();
