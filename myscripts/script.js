@@ -26,7 +26,7 @@ var quoteNo;
 var idiomNo;
 function loadQuote() {
     idiomNo = Math.floor(Math.random() * (idioms.length));
-    if(idiomNo != quoteNo) {
+    if(idiomNo !== quoteNo) {
     //alert(quotes[quoteNo]);
     	document.getElementById("quote").innerHTML = "<dt>" + idioms[idiomNo] + "</dt>" + "<dd>" + examples[idiomNo] + "</dd>";
    	quoteNo = idiomNo;
