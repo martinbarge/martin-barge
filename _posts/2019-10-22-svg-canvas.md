@@ -102,15 +102,18 @@ Here is the code to do this for the above example:
 </svg>
 
 <script>
+var angles = [90, 210, 330];
+var i;
+var radians;
+var x;
+var y;
 function drawCircle() {
-  var angles = [90, 210, 330];
-  var i;
-  for (i = 0; i < angles.length; i++){
-  var radians = angles[i] / 180 * Math.PI;
-  var x = Math.cos(radians);
-  var x = (x * 200) + 200;
-  var y = Math.sin(radians);
-  var y = (y * 200) + 200;
+  for(i = 0; i < angles.length; i+=1){
+  radians = angles[i] / 180 * Math.PI;
+  x = Math.cos(radians);
+  x = (x * 200) + 200;
+  y = Math.sin(radians);
+  y = (y * 200) + 200;
   document.getElementById("line"+i).setAttribute("x2", x );
   document.getElementById("line"+i).setAttribute("y2", y );
   }
