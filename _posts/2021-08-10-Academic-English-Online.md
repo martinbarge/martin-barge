@@ -15,10 +15,10 @@ Over time, the website technologies were surpassed by developments in web techno
 
 As an idea of how the original site looked, here's a screenshot of the homepage:
 
-![Image of old homepage](https://martinbarge.github.io/img/AEO-July-2020-homepage.png)
+![Image of old homepage](https://martinbarge.github.io/img/AEO-July-2020-homepage.png){:width="60%"}
 
 And other showing one of the Learning object pages:
-![Image of old page](https://martinbarge.github.io/img/AEO-July-2020-pron.png)
+![Image of old page](https://martinbarge.github.io/img/AEO-July-2020-pron.png){:width="60%"}
 
 A more in-depth view can be found at [Wayback Machine AEO](https://web.archive.org/web/20200721184211/http://aeo.sllf.qmul.ac.uk/) .
 
@@ -34,10 +34,10 @@ In addition to this, for activities for which neither Hot Potatoes nor H5P provi
 We also made use of the Accordions plugin (see: ) to build some of the interactive presentation units.
 
 For an idea of how the new site looks, here's a screenshot of the homepage:
-![Image of new homepage](https://martinbarge.github.io/img/AEO-August-2021-home.png?s=200)
+![Image of new homepage](https://martinbarge.github.io/img/AEO-August-2021-home.png){:width="60%"}
 
 And other showing one of the Learning object pages:
-![Image of new page](https://martinbarge.github.io/img/AEO-August-2021-pron.png)
+![Image of new page](https://martinbarge.github.io/img/AEO-August-2021-pron.png){:width="60%"}
 
 The new site is available at: [Academic English Online](https://aeo.sllf.qmul.ac.uk/) .
 
