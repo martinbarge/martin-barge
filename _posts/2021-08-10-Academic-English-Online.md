@@ -34,7 +34,7 @@ In addition to this, for activities for which neither Hot Potatoes nor H5P provi
 We also made use of the Accordions plugin (see: ) to build some of the interactive presentation units.
 
 For an idea of how the new site looks, here's a screenshot of the homepage:
-![Image of new homepage](https://martinbarge.github.io/img/AEO-August-2021-home.png | width=50%))
+![Image of new homepage](https://martinbarge.github.io/img/AEO-August-2021-home.png | width=50%)
 
 And other showing one of the Learning object pages:
 ![Image of new page](https://martinbarge.github.io/img/AEO-August-2021-pron.png)
