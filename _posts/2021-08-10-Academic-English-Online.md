@@ -9,7 +9,7 @@ gh-badge: [star, fork, follow]
 In around 2010, we developed an in-house website designed to help students at UK universities develop their academic English language skills. 
 The website is named Academic English Online, and was build using static HTML pages, created using the University of Southampton Learning Object Creator tool (LOC Tool).
 The LOC tool generates structured HTML pages, with CSS designs and JavaScript for interactive components (mostly div display objects). 
-Each Learning Object (page) links across to a varied range of additional interactive activites, made using Hot Potatoes, Tanida Quizbuilder, Articulate Studio, and some custom coded FlashMX objects. 
+Each Learning Object (page) links across to a varied range of additional interactive activites, made using Hot Potatoes (see <a href="https://hotpot.uvic.ca/">Hot Potatoes</a>), Tanida Quizbuilder (see <a href="https://www.quiz-builder.com/download.html">Tanida Quizbuilder</a>), Articulate Studio (see: <a href="https://articulate.com/360/studio">Articulate 360</a>, and some custom coded FlashMX objects. 
 The entire site was hosted on one of the University's FTP servers.
 Over time, the website technologies were surpassed by developments in web technologies, most notably the advent of HTML5 and the phasing out of Flash. 
 
@@ -28,10 +28,10 @@ Towards the end of 2020, I was tasked with rebuilding the site to bring it more 
 ### Migration of Learning Objects to WordPress
 The university installed a WordPress instance for us to carry this out.
 We extracted the core HTML content, CSS and JS from the Learning Objects and rebuilt them into WordPress pages.
-We then converted a small number of Hot Potatoes quizzes to the newer HTML5 compliant version of the tool (see: )
-We converted a larger number of items using the H5P WordPress plugin (see: )
-In addition to this, for activities for which neither Hot Potatoes nor H5P provided a suitable application, we custom-coded some interactives using freely-available JavaScript tools and libraries. Most notable Sortable.JS (see: ) and JQuery. We used the WP Coder plugin to incorporate these JS rich activities. 
-We also made use of the Accordions plugin (see: ) to build some of the interactive presentation units.
+We then converted a small number of Hot Potatoes quizzes to the newer HTML5 compliant version of the tool (see: <a href="https://hotpot.uvic.ca/">Hot Potatoes</a>)
+We converted a larger number of items using the H5P WordPress plugin (see: <a href="https://h5p.org/">H5P.org</a>)
+In addition to this, for activities for which neither Hot Potatoes nor H5P provided a suitable application, we custom-coded some interactives using freely-available JavaScript tools and libraries. Most notable [Sortable JS](https://github.com/SortableJS/Sortable) and JQuery. We used the [WP Coder plugin](https://wordpress.org/plugins/wp-coder/) to incorporate these JS rich activities. 
+We also made use of the [Accordions Plugin](https://pickplugins.com/item/accordions-html-css3-responsive-accordion-grid-for-wordpress) to build some of the interactive presentation units.
 
 For an idea of how the new site looks, here's a screenshot of the homepage:
 ![Image of new homepage](https://martinbarge.github.io/img/AEO-August-2021-home.png){:width="60%"}
