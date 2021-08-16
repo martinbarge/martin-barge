@@ -7,10 +7,6 @@ About three years ago, I took part of course in creative programming using Proce
 
 <img width="516" height="516" src="../img/exploding-globe.jpg"  alt="martin10 | by martinbarge">
 
-<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/135263932@N04/28985990951/" title="Molnar-Interpreted-1"><img src="https://live.staticflickr.com/8267/28985990951_d769bdf670_z.jpg" width="594" height="598" alt="Molnar-Interpreted-1"></a>
-<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-<a href="https://flic.kr/p/LaoMfF">Click here if not playing</a>
-
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/135263932@N04/28988408301/" title="clocks-1"><img src="https://live.staticflickr.com/8111/28988408301_0e96636e69_z.jpg" width="594" height="598" alt="clocks-1"></a>
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
