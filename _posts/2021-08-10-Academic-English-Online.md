@@ -27,7 +27,7 @@ Over time, the website technologies were surpassed by developments in web techno
    <figcaption style="font-weight:bold;">Figure 1.2: Example learning object page 2020.</figcaption>
 </figure>
 
-<p>A more in-depth view can be found at [Wayback Machine AEO](https://web.archive.org/web/20200721184211/http://aeo.sllf.qmul.ac.uk/) .</p>
+<p>A more in-depth view can be found at <a href="https://web.archive.org/web/20200721184211/http://aeo.sllf.qmul.ac.uk/">Wayback Machine AEO</a>.</p>
 
 ## Rebuilding the site
 
