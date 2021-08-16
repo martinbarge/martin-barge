@@ -72,13 +72,12 @@ We took the following steps to bring about the conversion to the new platform:
 
 - **JS:** Furthermore, the orginal page codes utilised JavaScript getElementsByClassname loop iteration, to action the Show/Hide functions of the feedback and review boxes within each learning object page. This feature didn't function in the pages code of our Wordpress installation, so we developed JavaScript code blocks using element identifiers to enable this interactive feature. This is an area for further exploration, to obviate the necessity of including a unique 'id' for each page element.
 
-<p>The new site is available at: [Academic English Online](https://aeo.sllf.qmul.ac.uk/) .</p>
+<p>The new site is available at: <a href="https://aeo.sllf.qmul.ac.uk/">Academic English Online</a>.</p>
 
 ### Further work
 - We are continuing to work on tweaking the interactive activities and learning objects to bring them to greater adaptive design functionality, particularly for use on very small screens.
 - We are also continuing to work on bringing the objects up to full Web accessibility standards. 
-Consequently, over time, the site will continue to evolve.
 
 ### Conclusion
-This development project has been demanding and time-consuming, and some of the Learning Objects are still being worked on to improve the user experience.
+This development project has been demanding and time-consuming, and some of the Learning Objects are still being worked on to improve user experience and site functionality.
 
