@@ -13,26 +13,25 @@ Each Learning Object (page) links across to a varied range of additional interac
 The entire site was hosted on one of the University's FTP servers.
 Over time, the website technologies were surpassed by developments in web technologies, most notably the advent of HTML5 and the phasing out of Flash. 
 
-As an idea of how the original site looked, here's a screenshot of the homepage:
+<p>As an idea of how the original site looked, here's a screenshot of the homepage:</p>
 
 <figure style="border: 2px solid darkslategray;">
   <img src="https://martinbarge.github.io/img/AEO-July-2020-homepage.png" alt="AEO Homepage 2008-2020" style="width:100%">
   <figcaption style="font-weight:bold;">Figure 1.1: Academic English Online Homepage 2008-2020.</figcaption>
 </figure>
 
-
-And other showing one of the Learning object pages:
+<p>And other showing one of the Learning object pages:</p>
 
 <figure style="border: 2px solid darkslategray;">
   <img src="https://martinbarge.github.io/img/AEO-July-2020-pron.png" alt="Pronunciation page" style="width:100%">
-  <figcaption>Figure 1.2: Example learning object page 2020.</figcaption>
+   <figcaption style="font-weight:bold;">Figure 1.2: Example learning object page 2020.</figcaption>
 </figure>
 
-
-A more in-depth view can be found at [Wayback Machine AEO](https://web.archive.org/web/20200721184211/http://aeo.sllf.qmul.ac.uk/) .
+<p>A more in-depth view can be found at [Wayback Machine AEO](https://web.archive.org/web/20200721184211/http://aeo.sllf.qmul.ac.uk/) .</p>
 
 ## Rebuilding the site
-Towards the end of 2020, I was tasked with rebuilding the site to bring it more in line with current web technology standards. This was brought about as follows:
+
+Towards the end of 2020, we were tasked with rebuilding the site to bring it more in line with current web technology standards. This was brought about as follows:
 
 ### Migration of Learning Objects to WordPress
 
@@ -46,25 +45,25 @@ We took the following steps to bring about the conversion to the new platform:
 6. In addition to this, for activities for which neither Hot Potatoes nor H5P provided a suitable application, we custom-coded some interactives using freely-available JavaScript tools and libraries. Most notable [Sortable JS](https://github.com/SortableJS/Sortable) and JQuery. We used the [WP Coder plugin](https://wordpress.org/plugins/wp-coder/) to incorporate these JS rich activities. 
 7. We also made use of the [Accordions Plugin](https://pickplugins.com/item/accordions-html-css3-responsive-accordion-grid-for-wordpress) to build some of the interactive presentation units.
 
-For an idea of how the new site looks, here's a screenshot of the homepage:
+<p>For an idea of how the new site looks, here's a screenshot of the homepage:</p>
 
 <figure style="border: 2px solid darkslategray;">
   <img src="https://martinbarge.github.io/img/AEO-August-2021-home.png" alt="AEO Homepage 2021" style="width:100%">
-  <figcaption>Figure 2.1: AEO Homepage 2021.</figcaption>
+   <figcaption style="font-weight:bold;">Figure 2.1: AEO Homepage 2021.</figcaption>
 </figure>
 
-The two following images show one of the Learning object pages in desktop and mobile view. 
+<p>The two following images show one of the Learning object pages in desktop and mobile view. </p>
 
 <figure style="border: 2px solid darkslategray;">
   <img src="https://martinbarge.github.io/img/AEO-August-2021-pron.png" alt="AEO Homepage 2021" style="width:100%">
-  <figcaption>Figure 2.2.a.: Example learning object page 2021: Desktop view.</figcaption>
+   <figcaption style="font-weight:bold;">Figure 2.2.a.: Example learning object page 2021: Desktop view.</figcaption>
 </figure>
 
-Although the new desktop view is not hugely different from the original design shown, we have modified the CSS to enable responsive viewports, as shown in this image:
+<p>Although the new desktop view is not hugely different from the original design shown, we have modified the CSS to enable responsive viewports, as shown in this image:</p>
 
 <figure style="border: 2px solid darkslategray;">
   <img src="https://martinbarge.github.io/img/pron-mobile-view.png" alt="AEO Homepage 2021" style="width:100%">
-  <figcaption>Figure 2.2.b.: Example learning object page 2021: Mobile view</figcaption>
+   <figcaption style="font-weight:bold;">Figure 2.2.b.: Example learning object page 2021: Mobile view</figcaption>
 </figure>
 
 ### Comments
@@ -73,7 +72,7 @@ Although the new desktop view is not hugely different from the original design s
 
 - **JS:** Furthermore, the orginal page codes utilised JavaScript getElementsByClassname loop iteration, to action the Show/Hide functions of the feedback and review boxes within each learning object page. This feature didn't function in the pages code of our Wordpress installation, so we developed JavaScript code blocks using element identifiers to enable this interactive feature. This is an area for further exploration, to obviate the necessity of including a unique 'id' for each page element.
 
-The new site is available at: [Academic English Online](https://aeo.sllf.qmul.ac.uk/) .
+<p>The new site is available at: [Academic English Online](https://aeo.sllf.qmul.ac.uk/) .</p>
 
 ### Further work
 - We are continuing to work on tweaking the interactive activities and learning objects to bring them to greater adaptive design functionality, particularly for use on very small screens.
