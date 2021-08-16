@@ -17,6 +17,11 @@ As an idea of how the original site looked, here's a screenshot of the homepage:
 
 ![Image of old homepage](https://martinbarge.github.io/img/AEO-July-2020-homepage.png)
 
+<figure>
+  <img src="https://martinbarge.github.io/img/AEO-July-2020-homepage.png" alt="AEO Original" style="width:100%">
+  <figcaption>Fig.1: Caption.</figcaption>
+</figure>
+
 And other showing one of the Learning object pages:
 ![Image of old page](https://martinbarge.github.io/img/AEO-July-2020-pron.png)
 
