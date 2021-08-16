@@ -3,7 +3,7 @@ layout: post
 title: Creative Programming
 tags: [creative programming, Processing]
 ---
-About three years ago, I took part of course in creative programming using Processing. Here are some examples of my experiments:
+In 2016, I took part of course in creative programming using Processing. Here are some examples of my experiments:
 
 <img width="516" height="516" src="../img/exploding-globe.jpg"  alt="martin10 | by martinbarge">
 
