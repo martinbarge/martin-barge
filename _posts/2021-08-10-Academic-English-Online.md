@@ -17,8 +17,9 @@ As an idea of how the original site looked, here's a screenshot of the homepage:
 
 <figure style="border: 2px solid darkslategray;">
   <img src="https://martinbarge.github.io/img/AEO-July-2020-homepage.png" alt="AEO Homepage 2008-2020" style="width:100%">
-  <figcaption>Figure 1.1: Academic English Online Homepage 2008-2020.</figcaption>
+  <figcaption style="font-weight:bold;">Figure 1.1: Academic English Online Homepage 2008-2020.</figcaption>
 </figure>
+
 
 And other showing one of the Learning object pages:
 
@@ -26,6 +27,7 @@ And other showing one of the Learning object pages:
   <img src="https://martinbarge.github.io/img/AEO-July-2020-pron.png" alt="Pronunciation page" style="width:100%">
   <figcaption>Figure 1.2: Example learning object page 2020.</figcaption>
 </figure>
+
 
 A more in-depth view can be found at [Wayback Machine AEO](https://web.archive.org/web/20200721184211/http://aeo.sllf.qmul.ac.uk/) .
 
