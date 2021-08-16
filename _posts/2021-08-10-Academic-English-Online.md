@@ -16,11 +16,9 @@ Over time, the website technologies were surpassed by developments in web techno
 As an idea of how the original site looked, here's a screenshot of the homepage:
 
 ![Image of old homepage](https://martinbarge.github.io/img/AEO-July-2020-homepage.png)
-[View larger image](https://martinbarge.github.io/img/AEO-July-2020-home.png)
 
 And other showing one of the Learning object pages:
 ![Image of old page](https://martinbarge.github.io/img/AEO-July-2020-pron.png)
-[View larger image](https://martinbarge.github.io/img/AEO-July-2020-home.png)
 
 A more in-depth view can be found at [Wayback Machine AEO](https://web.archive.org/web/20200721184211/http://aeo.sllf.qmul.ac.uk/) .
 
@@ -37,11 +35,9 @@ We also made use of the [Accordions Plugin](https://pickplugins.com/item/accordi
 
 For an idea of how the new site looks, here's a screenshot of the homepage:
 ![Image of new homepage](https://martinbarge.github.io/img/AEO-August-2021-home.png)
-[View larger image](https://martinbarge.github.io/img/AEO-August-2021-home.png)
 
 And other showing one of the Learning object pages:
 ![Image of new page](https://martinbarge.github.io/img/AEO-August-2021-pron.png)
-[View larger image](https://martinbarge.github.io/img/AEO-August-2021-pron.png)
 
 The new site is available at: [Academic English Online](https://aeo.sllf.qmul.ac.uk/) .
 
