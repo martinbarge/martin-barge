@@ -36,6 +36,12 @@ We also made use of the [Accordions Plugin](https://pickplugins.com/item/accordi
 For an idea of how the new site looks, here's a screenshot of the homepage:
 ![Image of new homepage](https://martinbarge.github.io/img/AEO-August-2021-home.png)
 
+<figure>
+  <img src="{{site.url}}/img/AEO-August-2021-home.png" alt="AEO Original homepage"/>
+  <figcaption>Original Homepage for Academic English Online.</figcaption>
+</figure>
+
+
 And other showing one of the Learning object pages in desktop and mobile view:
 ![Image of new page desktop](https://martinbarge.github.io/img/AEO-August-2021-pron.png)
 
