@@ -5,6 +5,8 @@ subtitle: Some talks I have given
 
 ---
 
+- 2023: **ChatGPT: Threat or Opportunity? How should we respond?** <br>Language Centre Learning & Teaching Conference 2023, Queen Mary University of London.
+
 - 2018: **Does technology serve to liberate EAP practitioners, or enslave us?** <br>Martin Barge. Language Centre 5th CPD Conference 2018, Queen Mary University of London.
 
 - 2015: **Setting a Precedent with Open Resources Development in English for Specific Academic Purposes.** <br>Alannah Fitzgerald, Martin Barge, Saima Sherazi & William Tweddle. BALEAP Biennial Conference, University of Leicester.
