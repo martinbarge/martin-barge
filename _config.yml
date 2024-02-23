@@ -33,8 +33,8 @@ navbar-links:
   OUTPUTS:
     - Conferences: "conferences"
     - Publications: "publications"
-  QMUL: "https://www.qmul.ac.uk/sllf/language-centre/people/academic/profiles/barge.html"
   BLOG: "index.html"
+  QMUL: "https://www.qmul.ac.uk/sllf/language-centre/people/academic/profiles/barge.html"
   Acknowledgements: 
     - Dean Attali's Website: "http://deanattali.com"
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
